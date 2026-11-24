@@ -553,7 +553,7 @@ KEYRING_FILE  = DIRS["data"] / "keyring.json"   # tiny local cache only
 # └──────────────────────────────────────────────────────────────┘
 # BOT TOKEN: Paste your BotFather token between the quotes below.
 # Environment variables, if configured, take priority over this value.
-BOT_TOKEN_IN_FILE = "9293736159:AAEmp5e2axrQ5GpNTl3ShMUCVwKYAQvBNi4"
+BOT_TOKEN_IN_FILE = "9098443127:AAFlCdV2qM11xLzgf-bg5UTmiAnTXLLLtNY"
 TOKEN = (
     os.environ.get("BOT_TOKEN")
     or os.environ.get("MAIN_BOT_TOKEN")
